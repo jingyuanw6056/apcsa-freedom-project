@@ -8,6 +8,7 @@ Through using "How to learn" and "how to google". I got some tutorials with goog
 
 As for school days goes by fast, and winter break approaching. I wanted to draw some simple sprites and tinker with them inside of the engine, like simple movements and testing for hitboxes 
 
+Using "How to Google" and "Growth mindset". I googled up tutorials that helped me with certain parts of my learning and i kept my growth mindset and experimented with certain aspects of my software.
 [Previous](entry01.md) | [Next](entry03.md)
 
 [Home](../README.md)
