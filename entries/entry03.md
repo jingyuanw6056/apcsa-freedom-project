@@ -27,6 +27,7 @@ Right hand side -> Click on the target like shape -> Choose desire sprite
 For my next steps is definity look into what I mentioned in step 3 as it was the most important part of the entire Unity 2D engine in my opinion. I am also planning to learn how animations work in the program as well and I honestly think I need another tutorial to help me with that
 
 Using "How to Google" and "Growth mindset". I googled up tutorials that helped me with certain parts of my learning and i kept my growth mindset and experimented with certain aspects of my software.
+
 [Previous](entry02.md) | [Next](entry04.md)
 
 [Home](../README.md)
