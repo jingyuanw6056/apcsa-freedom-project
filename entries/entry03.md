@@ -1,5 +1,5 @@
 # Entry 3
-##### X/X/XX
+##### 2/13/2022
 
 Through out the passing days, I have explored many aspects of how objects, not sprites, work in Unity 2D. Some of them I have to search online for tutorials for as my previous tutorials didn't mention them, this lead to me having a [new tutorial](https://www.youtube.com/watch?v=Lu76c85LhGY) to base by basics around. However, searching up everything isn't going to help me in the future, this means I did infact do some self-discovery and found myself some solutions/answers to my issues/questions.
 
