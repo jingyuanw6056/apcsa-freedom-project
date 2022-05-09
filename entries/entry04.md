@@ -6,6 +6,7 @@ Tilesmaps can be set up in unity so that you can select such tiles and place the
 You also need to create a new object to put Tilemap and Tilemap Renderer into in order to add the tiles on to them
 
 ![Example](../pictures/e4_1.png)
+
 ![Example](../pictures/e4_2.png)
 
 By using the tiles setup above, I created a stage that look like this 
@@ -18,6 +19,7 @@ I have to search online to fine out how to do collisions, and turns out they are
 This ended up the player landing on the ground and not falling though the stage. 
 
 ![Example](../pictures/e4_4.png)
+
 ![Example](../pictures/e4_5.png)
 
 -----
