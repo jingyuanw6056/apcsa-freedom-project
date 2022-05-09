@@ -1,5 +1,5 @@
 # Entry 4
-##### X/X/XX
+##### 5/6/2022 (Makeup Work)
 
 In the weeks around the time for this entry to be due, I worked on tile maps and more artwork that I am going to use in my project.
 Tilesmaps can be set up in unity so that you can select such tiles and place them on the scene, they do require some setup and understanding. Like setting pixel per unit, I set mines to 16 per unit due to my pixelart for each tile is 16 x 16
