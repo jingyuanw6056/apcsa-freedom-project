@@ -25,6 +25,7 @@ At the start, you would be able to spam jump and attack without any delay. This 
 I was really upset at this. But I figured it out 
 
 ![Example](../pictures/e5_3.png)
+
 ![Example](../pictures/e5_4.png)
 
 Time.deltaTime basically accounts for how much frame mean in a second, it could be 1/30 of a second. And what I did is added it to a float number, and when that float number passes a certain point and using a boolean, I can prevent user from doing actions before the counter reach a certain point. After they preform an action like jump, I will just reset the counter back to 0.
@@ -32,6 +33,7 @@ Time.deltaTime basically accounts for how much frame mean in a second, it could 
 -----
 
 Next steps is definity animation and attack animation for the red crystal, it would be a flash around it and it will damage all the things in it's surrounding
+
 Using "Embracing failure" and "Debugging". I kept doing at what I don't understand and kept going for it, trying to fix that one little issue until there is a solution.
 
 [Previous](entry04.md) | [Next](entry06.md)
