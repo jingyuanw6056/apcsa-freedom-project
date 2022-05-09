@@ -28,6 +28,8 @@ For my next steps is definity look into what I mentioned in step 3 as it was the
 
 Using "How to Google" and "Growth mindset". I googled up tutorials that helped me with certain parts of my learning and i kept my growth mindset and experimented with certain aspects of my software.
 
+
+
 [Previous](entry02.md) | [Next](entry04.md)
 
 [Home](../README.md)
